@@ -4,5 +4,7 @@ grc4ciso integrates Extended Detection and Response (XDR), Governance, Risk, and
 # GRC (governance, risk, compliance)
 
 * GRC (es): https://github.com/grcbit/grc4ciso/wiki/GRC-(es)
-* GRC (en):
+* GRC (en): https://github.com/grcbit/grc4ciso/wiki/GRC-(en)
+
+
 

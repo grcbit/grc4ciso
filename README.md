@@ -125,9 +125,9 @@ https://github.com/openziti/ziti/blob/release-next/ADOPTERS.md
 
 grc4ciso provide the following security functionalities:
 
-- XDR module is protected with Zero Trust, it mandates authentication and authorisation before any connectivity can be established using a strong identity. When connectivity is created, it can be micro-segmented using least privilege and attribute-based access control.
+- XDR module is protected with Zero Trust, it mandates authentication and authorization before any connectivity can be established using a strong identity.
 - Multi-factor authentication can be enable to authenticate to the GRC platform.
-- The authorization to the componente and functionalities are restricted by roles and privileges, so each user only can access the resources needed for their functions.
+- The authorization to the grc4ciso components and functionalities are restricted by roles and privileges, so each user only can access the resources needed for their functions.
 
 ### DEMO
 

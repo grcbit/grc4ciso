@@ -1,10 +1,15 @@
 # **grc4ciso (GRC + XDR + GPT + ZT)**
 
-
-
-**grc4ciso** integrates Extended Detection and Response (**XDR**), Governance, Risk, and Compliance (**GRC**), **Zero Trust**, and **GPT-4** cybersecurity capabilities into a unified Software-as-a-Service (SaaS) platform.
+**grc4ciso** integrates the following cybersecurity capabilities into a unified Software-as-a-Service (SaaS) platform:
+- Extended Detection and Response (**XDR**).
+- Governance, Risk, and Compliance (**GRC**).
+- **Zero Trust** components to protect web applications and services (**ZT**).
+- **GPT-4** assistant (**GPT**).
 
 **With this platform you can get the power of these cybersecurity tools into a single SaaS platform!!**
+
+<img width="527" alt="grc4ciso_1" src="https://github.com/grcbit/grc4ciso/assets/60721087/b9ece702-c369-40e5-98b2-4199330e3b58">
+
 
 
 
@@ -23,8 +28,8 @@ The information you can get from GPT-XDR are the following (prompts examples):
 
 - Show me the list of agents that are integrated to the XDR.
 <img width="945" alt="image" src="https://github.com/grcbit/grc4ciso/assets/60721087/0110dee8-abd4-4068-b799-c010b2a07119">
-
-- 
+- Show me the vulnerabilities of the agent {agent_id}.
+<img width="959" alt="image" src="https://github.com/grcbit/grc4ciso/assets/60721087/10276811-54c2-4114-b5dc-2cd8649d498d">
 - Show me the configuration of the agent {agent_id}.
 - Show me the key of the agent {agent_id}.
 - Summarize the operating systems of the agents.

@@ -39,17 +39,18 @@ The information you can get from GPT-XDR are the following (prompts examples):
 - Show me the key of the agent {agent_id}.
 - Summarize the operating systems of the agents.
 - Summarize the status of the agents.
-- Show me the CISCAT scan results of the agent {agent_id}.
+- Show me the CISCAT (Center for Internet Security Configuration Assessment Tool) scan results of the agent {agent_id}.
 - Show me ports open of the agent {agent_id}.
 - Show me the vulnerabilities of the agent {agent_id}.
 - Show me the packages that are installed in the agent {agent_id}.
 - Show me the operating system of the agent {agent_id}.
-- Show the network information of the agent {agent_id}.
+- Show me the network information of the agent {agent_id}.
 - Show me the hotfixes installed in the agent {agent_id}.
 - Show me the hardware information of the agent {agent_id}.
 - Show me the results of the configuration assessment of the agent {agent_id}
 
-This functionality is integrated into the free version, but to make the most of it, you have to integrate the XDR also.
+This functionality is integrated into the free grc4ciso version, but to make the most of it, you have to integrate the XDR also.
+
 You can also try the GPT https://chat.openai.com/g/g-NQR7ndLer-grc4ciso 
 
 

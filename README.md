@@ -113,10 +113,21 @@ Wazuh solution consists of an endpoint security agent, deployed to the monitored
 
 ### **ZeroTrust**
 
+grc4ciso provides you all the needed components to create a Zero Trust network to protect you web applications and services, it is based on the openziti platform. OpenZiti is a free and open source project focused on bringing zero trust networking principles directly into any application. The project provides all the pieces required to implement a zero trust overlay network and provides all the tools necessary to integrate zero trust into your existing solutions. 
 
+<img width="928" alt="image" src="https://github.com/grcbit/grc4ciso/assets/60721087/cd609bd3-3e6e-4834-8428-8d491d93499c">
 
+To access the ZeroTrust network you will need an edge client, you can download it here https://openziti.io/docs/downloads
 
+https://github.com/openziti/ziti/blob/release-next/ADOPTERS.md 
 
+### **grc4ciso Security**
+
+grc4ciso provide the following security functionalities:
+
+- XDR module is protected with Zero Trust, it mandates authentication and authorisation before any connectivity can be established using a strong identity. When connectivity is created, it can be micro-segmented using least privilege and attribute-based access control.
+- Multi-factor authentication can be enable to authenticate to the GRC platform.
+- The authorization to the componente and functionalities are restricted by roles and privileges, so each user only can access the resources needed for their functions.
 
 ### DEMO
 

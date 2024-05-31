@@ -27,9 +27,14 @@ Also if you are using the **XDR** module, the assistant can give you information
 The information you can get from GPT-XDR are the following (prompts examples):
 
 - Show me the list of agents that are integrated to the XDR.
+  
 - <img width="945" alt="image" src="https://github.com/grcbit/grc4ciso/assets/60721087/0110dee8-abd4-4068-b799-c010b2a07119">
+
 - Show me the vulnerabilities of the agent {agent_id}.
+  
 - <img width="959" alt="image" src="https://github.com/grcbit/grc4ciso/assets/60721087/10276811-54c2-4114-b5dc-2cd8649d498d">
+
+
 - Show me the configuration of the agent {agent_id}.
 - Show me the key of the agent {agent_id}.
 - Summarize the operating systems of the agents.
@@ -44,15 +49,25 @@ The information you can get from GPT-XDR are the following (prompts examples):
 - Show me the hardware information of the agent {agent_id}.
 - Show me the results of the configuration assessment of the agent {agent_id}
 
+This functionality is integrated into the free version, but to make the most of it, you have to integrate the XDR also.
+You can also try the GPT https://chat.openai.com/g/g-NQR7ndLer-grc4ciso 
 
 
 ### **GRC**
 
-With this module you can comply with ISO27001:2022 and PCI requirements, alto you can implement an Information Security Management System, execute IT Risk and control design activities and more.
+With this module you can comply with ISO 27001:2022 and PCI requirements, alto you can implement an Information Security Management System, execute IT Risk and control design activities and more.
 
 Some functionalities in this module are: 
 
-- The platform provide you with the 93 ISO controls already loaded, security attributues, security concepts, categories, so you basically need to complete the statement aplicability to show an Informations Security Management System implemented in your organization. 
+- The platform provide you with the 93 ISO controls already loaded, security attributues, security concepts, categories, so you basically need to complete the statement aplicability to show an Information Security Management System implemented in your organization.
+
+- <img width="959" alt="image" src="https://github.com/grcbit/grc4ciso/assets/60721087/9c774967-cb35-4498-bf1e-1da562b2dfbc">
+- <img width="950" alt="image" src="https://github.com/grcbit/grc4ciso/assets/60721087/2e34a7ba-8a81-469d-b9ac-b5b368f8443d">
+
+- You can get reports and charts about the Information Security Management System.
+
+- 
+
 - You can automatically launch securtiy awaress campaigns by email and track user response, you can monitor clicks, open
 - You can plan ISO27001 implementation.
 - You can evaluate risk with CVSS (Common Vulnerability Score System).

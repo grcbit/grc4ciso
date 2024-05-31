@@ -24,6 +24,8 @@
 
 Also if you are using the **XDR** module, the assistant can give you information about the endpoints that are connected to your **XDR**, so, you can for example ask the **grc4ciso GPT assistant** to summarize the main vulnerabilities you have in your systems, so you can take needed actions to mitigate cybersecurity risks.
 
+You can also ask to grc4cisoc GPT to create a threat scenario based on vulnerabilities identified and ask for recommendations to mitigate risks.
+
 The information you can get from GPT-XDR are the following (prompts examples):
 
 - Show me the list of agents that are integrated to the XDR.
@@ -48,6 +50,8 @@ The information you can get from GPT-XDR are the following (prompts examples):
 - Show me the hotfixes installed in the agent {agent_id}.
 - Show me the hardware information of the agent {agent_id}.
 - Show me the results of the configuration assessment of the agent {agent_id}
+- <img width="928" alt="image" src="https://github.com/grcbit/grc4ciso/assets/60721087/d9632ea0-7ed4-4470-96bd-161fb28be03b">
+- <img width="907" alt="image" src="https://github.com/grcbit/grc4ciso/assets/60721087/e26b2a4d-7b54-4bf8-876b-da3d1ae4ec99">
 
 This functionality is integrated into the free grc4ciso version, but to make the most of it, you have to integrate the XDR also.
 

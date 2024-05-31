@@ -68,24 +68,25 @@ Some functionalities in this module are:
 
 - <img width="932" alt="image" src="https://github.com/grcbit/grc4ciso/assets/60721087/0eda3765-5550-434c-818f-2a0102d87bee">
 
-- You can evaluate risk using CVSS (Common Vulnerability Score System) calculator integrated in the risk module.
+- You can evaluate risks using CVSS (Common Vulnerability Score System) calculator integrated in the risk module.
 
 - <img width="938" alt="image" src="https://github.com/grcbit/grc4ciso/assets/60721087/06981015-c0d8-42b3-9a15-f359ed1a943d">
 
-- You can automatically launch securtiy awaress campaigns by email and track users response to it.
+- You can automatically launch security awareness campaigns by email and track users response to it.
 
 - <img width="948" alt="image" src="https://github.com/grcbit/grc4ciso/assets/60721087/592bee33-097a-459c-8311-785e4e790d66">
 
-  
-- You can plan ISO27001 implementation.
-- Other standars and best practices that are loaded are NIST, CIS Controls.
+- PCI requeirements are also loaded so you can show compliance to auditors, clients, regulators or stake holders.
+- <img width="937" alt="image" src="https://github.com/grcbit/grc4ciso/assets/60721087/06ea2670-7cec-4b02-a441-3dbbf9f91942">
+
 - You can plan onboarding and offboarding employee security activities.
 - You Can't Protect What You Don't Know, so in the GRC module you can register IT providers, IT components, IT systems, processess and critical data, so you can evaluate risk and desing controls over such components to protect you data.
 - You can registers cybersecurity incidents to ensure adequate treatment.
 - Define the roles needed for you Information Security System.
-- Also you ca get reports
+- You can plan and track ISO27001, CIS Controls, and other cybersecurity implementations.
+- And moe.
 
-**This module is free, so you can download it or request us to create an instance for you, we recommend you to use and integrate the other modules (XDR + GPT + ZT) to get the most of it.**
+**This module is free, so you can download it or request us to create an instance for you, we recommend you to integrate the other modules (XDR + GPT + ZT) to get the most of it.**
 
 To use the other modules you can get a suscription based on the number of endpoints you integrate whether in the XDR or ZeroTrust module. Please visit https://grc4ciso/shop
 

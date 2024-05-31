@@ -109,15 +109,13 @@ Wazuh solution consists of an endpoint security agent, deployed to the monitored
 
 ### **ZeroTrust**
 
-ZeroTrust functionalities are based on OpenZiti platform
 
-With
+
 
 
 
 ### DEMO
 
-Maybe when you try to access the XDR and ZeroTrus functionalities, you will see an error page, it is normal because this modules works in a Zero Trust network, so in order to access XDR and ZeroTrust functionalities please request us a ZeroTrust Token.
 
 
 

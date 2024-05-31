@@ -15,7 +15,7 @@
 
 ### **GPT-4**
 
-**grc4ciso** integrates a **GPT assistant** that is trained to advised you on Cybersecurity activities, so you have a virtual CISO helping you to manage the cybersecurity activities all time you need it.
+**grc4ciso** integrates a **GPT assistant** that is trained to advised you on Cybersecurity activities, so you have a virtual CISO helping you to manage cybersecurity activities all time you need it.
 
 
 <img width="959" alt="image" src="https://github.com/grcbit/grc4ciso/assets/60721087/abb92566-5881-47f7-ae28-3972d444bca6">
@@ -27,9 +27,9 @@ Also if you are using the **XDR** module, the assistant can give you information
 The information you can get from GPT-XDR are the following (prompts examples):
 
 - Show me the list of agents that are integrated to the XDR.
-<img width="945" alt="image" src="https://github.com/grcbit/grc4ciso/assets/60721087/0110dee8-abd4-4068-b799-c010b2a07119">
+- <img width="945" alt="image" src="https://github.com/grcbit/grc4ciso/assets/60721087/0110dee8-abd4-4068-b799-c010b2a07119">
 - Show me the vulnerabilities of the agent {agent_id}.
-<img width="959" alt="image" src="https://github.com/grcbit/grc4ciso/assets/60721087/10276811-54c2-4114-b5dc-2cd8649d498d">
+- <img width="959" alt="image" src="https://github.com/grcbit/grc4ciso/assets/60721087/10276811-54c2-4114-b5dc-2cd8649d498d">
 - Show me the configuration of the agent {agent_id}.
 - Show me the key of the agent {agent_id}.
 - Summarize the operating systems of the agents.

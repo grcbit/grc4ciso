@@ -55,7 +55,7 @@ You can also try the GPT https://chat.openai.com/g/g-NQR7ndLer-grc4ciso
 
 ### **GRC**
 
-With this module you can comply with ISO 27001:2022 and PCI requirements, alto you can implement an Information Security Management System, execute IT Risk and control design activities and more.
+With this module you can comply with ISO 27001:2022 and PCI requirements, also you can implement an Information Security Management System, execute IT Risk and control design activities and more.
 
 Some functionalities in this module are: 
 
@@ -66,11 +66,18 @@ Some functionalities in this module are:
 
 - You can get reports and charts about the Information Security Management System.
 
-- 
+- <img width="932" alt="image" src="https://github.com/grcbit/grc4ciso/assets/60721087/0eda3765-5550-434c-818f-2a0102d87bee">
 
-- You can automatically launch securtiy awaress campaigns by email and track user response, you can monitor clicks, open
+- You can evaluate risk using CVSS (Common Vulnerability Score System) calculator integrated in the risk module.
+
+- <img width="938" alt="image" src="https://github.com/grcbit/grc4ciso/assets/60721087/06981015-c0d8-42b3-9a15-f359ed1a943d">
+
+- You can automatically launch securtiy awaress campaigns by email and track users response to it.
+
+- <img width="948" alt="image" src="https://github.com/grcbit/grc4ciso/assets/60721087/592bee33-097a-459c-8311-785e4e790d66">
+
+  
 - You can plan ISO27001 implementation.
-- You can evaluate risk with CVSS (Common Vulnerability Score System).
 - Other standars and best practices that are loaded are NIST, CIS Controls.
 - You can plan onboarding and offboarding employee security activities.
 - You Can't Protect What You Don't Know, so in the GRC module you can register IT providers, IT components, IT systems, processess and critical data, so you can evaluate risk and desing controls over such components to protect you data.

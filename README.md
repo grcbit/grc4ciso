@@ -56,7 +56,7 @@ You can also try the GPT https://chat.openai.com/g/g-NQR7ndLer-grc4ciso
 
 ### **GRC**
 
-With this module you can comply with ISO 27001:2022 and PCI requirements, also you can implement an Information Security Management System, execute IT Risk and control design activities and more.
+With this module you can comply with ISO 27001:2022 and PCI requirements, also you can implement an Information Security Management System, execute IT Risk, control design activities and more.
 
 Some functionalities in this module are: 
 
@@ -77,7 +77,7 @@ Some functionalities in this module are:
 
 - <img width="948" alt="image" src="https://github.com/grcbit/grc4ciso/assets/60721087/592bee33-097a-459c-8311-785e4e790d66">
 
-- PCI requeirements are also loaded so you can show compliance to auditors, clients, regulators or stake holders.
+- PCI requirements are also loaded so you can show compliance to auditors, clients, regulators or stake holders.
 - <img width="937" alt="image" src="https://github.com/grcbit/grc4ciso/assets/60721087/06ea2670-7cec-4b02-a441-3dbbf9f91942">
 
 - You can plan onboarding and offboarding employee security activities.

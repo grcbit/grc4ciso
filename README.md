@@ -136,6 +136,6 @@ grc4ciso provide the following security functionalities:
 
 ### Contact
 
-email: contacto@grcbit.com
-
-whatsapp: +52 
+- email: contacto@grcbit.com
+- whatsapp: +52 44-39-02-87-96
+- Subscription: https://shop.grcbit.com/shop/category/grc4ciso-2

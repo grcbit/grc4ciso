@@ -36,6 +36,14 @@ XDR GPT Assistant Examples:
   
 - <img width="959" alt="image" src="https://github.com/grcbit/grc4ciso/assets/60721087/10276811-54c2-4114-b5dc-2cd8649d498d">
 
+- Show me the vulnerabilities of the agent {agent_id}.
+
+- <img width="928" alt="image" src="https://github.com/grcbit/grc4ciso/assets/60721087/d9632ea0-7ed4-4470-96bd-161fb28be03b">
+
+-
+
+- <img width="907" alt="image" src="https://github.com/grcbit/grc4ciso/assets/60721087/e26b2a4d-7b54-4bf8-876b-da3d1ae4ec99">
+
 
 - Show me the configuration of the agent {agent_id}.
 - Show me the key of the agent {agent_id}.
@@ -43,17 +51,12 @@ XDR GPT Assistant Examples:
 - Summarize the status of the agents.
 - Show me the CISCAT (Center for Internet Security Configuration Assessment Tool) scan results of the agent {agent_id}.
 - Show me ports open of the agent {agent_id}.
-- Show me the vulnerabilities of the agent {agent_id}.
 - Show me the packages that are installed in the agent {agent_id}.
 - Show me the operating system of the agent {agent_id}.
 - Show me the network information of the agent {agent_id}.
 - Show me the hotfixes installed in the agent {agent_id}.
 - Show me the hardware information of the agent {agent_id}.
 - Show me the results of the configuration assessment of the agent {agent_id}
-- <img width="928" alt="image" src="https://github.com/grcbit/grc4ciso/assets/60721087/d9632ea0-7ed4-4470-96bd-161fb28be03b">
-- <img width="907" alt="image" src="https://github.com/grcbit/grc4ciso/assets/60721087/e26b2a4d-7b54-4bf8-876b-da3d1ae4ec99">
-
-This functionality is integrated into the free grc4ciso version, but to make the most of it, you have to integrate the XDR also.
 
 You can also try the GPT https://chat.openai.com/g/g-NQR7ndLer-grc4ciso 
 

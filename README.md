@@ -126,10 +126,16 @@ grc4ciso provide the following security functionalities:
 
 ### **grc4ciso roles**
 
-|         | Asset Management | Risk Management| |
-| --------|-------------|-------|------------|
-| Monday  | pasta       | $6    |            |
-| Tuesday | chicken     | $8    |            |
+|         | Asset Management | ISMS | Risk Management| Control | Compliance | Settings|
+| --------|-------------|-------|------------|------------|------------|------------|
+| GRC Admin | RWCU | RWCU | RWCU | RWCU | RWCU | RWCU |
+| GRC Consultant | | | | | | |
+| Asset Management | | | | | | |
+| ISMS | | | | | | |
+| Risk Management | | | | | | |
+| Control | | | | | | |
+| Compliance | | | | | | |
+| Guest | | | | | | |
 
 ### DEMO
 

@@ -125,17 +125,18 @@ grc4ciso provide the following security functionalities:
 - The authorization to the grc4ciso components and functionalities are restricted by roles and privileges, so each user only can access the resources needed for their functions.
 
 ### **grc4ciso roles**
+R - Read, W - Write, C - Create, u - Unlink
 
 |         | Asset Management | ISMS | Risk Management| Control | Compliance | Settings|
 | --------|-------------|-------|------------|------------|------------|------------|
 | GRC Admin | RWCU | RWCU | RWCU | RWCU | RWCU | RWCU |
-| GRC Consultant | | | | | | |
-| Asset Management | | | | | | |
-| ISMS | | | | | | |
-| Risk Management | | | | | | |
-| Control | | | | | | |
-| Compliance | | | | | | |
-| Guest | | | | | | |
+| GRC Consultant |RWCU|RWCU|RWCU|RWCU|RWCU|RWCU|
+| Asset Management|RWCU|R|R|R|R|R|
+| ISMS |R|RWCU|R|R|R|R|
+| Risk Management|R|R|RWCU|R|R|R|
+| Control|R|R|R|RWCU|R|R|
+| Compliance |R|R|R|R|RWCU|R|
+| Guest|R|R|R|R|R|R|
 
 ### DEMO
 

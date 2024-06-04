@@ -126,8 +126,7 @@ grc4ciso provide the following security functionalities:
 
 ### **grc4ciso roles**
 
-|         | Asset       | ISMS  | Risk       |
-|         | Management  |       | Management |
+|         | Asset Management | Risk Management| |
 | --------|-------------|-------|------------|
 | Monday  | pasta       | $6    |            |
 | Tuesday | chicken     | $8    |            |

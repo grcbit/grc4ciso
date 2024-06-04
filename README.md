@@ -124,6 +124,14 @@ grc4ciso provide the following security functionalities:
 - Multi-factor authentication can be enable to authenticate to the GRC platform.
 - The authorization to the grc4ciso components and functionalities are restricted by roles and privileges, so each user only can access the resources needed for their functions.
 
+### **grc4ciso roles**
+
+|         | Asset       | ISMS  | Risk       |
+|         | Management  |       | Management |
+| --------|-------------|-------|------------|
+| Monday  | pasta       | $6    |            |
+| Tuesday | chicken     | $8    |            |
+
 ### DEMO
 
 

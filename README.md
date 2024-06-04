@@ -26,7 +26,7 @@ Also if you are using the **XDR** module, the assistant can give you information
 
 You can also ask to grc4cisoc GPT to create a threat scenario based on vulnerabilities identified and ask for recommendations to mitigate risks.
 
-The information you can get from GPT-XDR are the following (prompts examples):
+XDR GPT Assistant Examples:
 
 - Show me the list of agents that are integrated to the XDR.
   

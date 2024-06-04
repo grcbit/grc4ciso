@@ -40,6 +40,7 @@ XDR GPT Assistant Examples:
 
 - <img width="928" alt="image" src="https://github.com/grcbit/grc4ciso/assets/60721087/d9632ea0-7ed4-4470-96bd-161fb28be03b">
 
+- What I need to do to mitigate vulenrability CVE-2023-50387 detected in the agent 001
 
 - <img width="907" alt="image" src="https://github.com/grcbit/grc4ciso/assets/60721087/e26b2a4d-7b54-4bf8-876b-da3d1ae4ec99">
 

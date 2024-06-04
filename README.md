@@ -36,11 +36,10 @@ XDR GPT Assistant Examples:
   
 - <img width="959" alt="image" src="https://github.com/grcbit/grc4ciso/assets/60721087/10276811-54c2-4114-b5dc-2cd8649d498d">
 
-- Show me the vulnerabilities of the agent {agent_id}.
+- Based on {agent_id} vulnerabilities create a threat scenario.
 
 - <img width="928" alt="image" src="https://github.com/grcbit/grc4ciso/assets/60721087/d9632ea0-7ed4-4470-96bd-161fb28be03b">
 
--
 
 - <img width="907" alt="image" src="https://github.com/grcbit/grc4ciso/assets/60721087/e26b2a4d-7b54-4bf8-876b-da3d1ae4ec99">
 

@@ -89,6 +89,10 @@ Some functionalities in this module are:
 
 - You can plan onboarding and offboarding employee security activities.
   
+- You can launch security awareness campaigns, and track the user's response.
+- <img width="749" alt="image" src="https://github.com/grcbit/grc4ciso/assets/60721087/9b87d61d-6e77-4a1c-9493-3f1b2b9ba84e">
+
+  
 - You can not protect what you do not know, so in the GRC module you can register IT providers, IT components, IT systems, processess and critical data, so you can evaluate risk and desing controls over such components to protect you data.
 - <img width="883" alt="image" src="https://github.com/grcbit/grc4ciso/assets/60721087/82eca9d0-eb87-4e23-a570-26fee38a93f2">
 

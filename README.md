@@ -17,9 +17,7 @@
 
 **grc4ciso** integrates a **GPT assistant** that is trained to advised you on Cybersecurity activities, so you have a virtual CISO helping you to manage cybersecurity activities all time you need it.
 
-
-<img width="959" alt="image" src="https://github.com/grcbit/grc4ciso/assets/60721087/abb92566-5881-47f7-ae28-3972d444bca6">
-
+<img width="874" alt="image" src="https://github.com/grcbit/grc4ciso/assets/60721087/e04d77a0-50f9-4910-b63b-1c7ff90ed363">
 
 
 Also if you are using the **XDR** module, the assistant can give you information about the endpoints that are connected to your **XDR**, so, you can for example ask the **grc4ciso GPT assistant** to summarize the main vulnerabilities you have in your systems, so you can take needed actions to mitigate cybersecurity risks.
@@ -30,20 +28,19 @@ XDR GPT Assistant Examples:
 
 - Show me the list of agents that are integrated to the XDR.
   
-- <img width="945" alt="image" src="https://github.com/grcbit/grc4ciso/assets/60721087/0110dee8-abd4-4068-b799-c010b2a07119">
+- <img width="542" alt="image" src="https://github.com/grcbit/grc4ciso/assets/60721087/b56d1b8a-f66c-4c45-bc0c-146200fb8a1b">
 
 - Show me the vulnerabilities of the agent {agent_id}.
   
-- <img width="959" alt="image" src="https://github.com/grcbit/grc4ciso/assets/60721087/10276811-54c2-4114-b5dc-2cd8649d498d">
+- <img width="503" alt="image" src="https://github.com/grcbit/grc4ciso/assets/60721087/1519382c-4a23-419d-8201-a0921fca1b2e">
 
 - Based on {agent_id} vulnerabilities create a threat scenario.
 
-- <img width="928" alt="image" src="https://github.com/grcbit/grc4ciso/assets/60721087/d9632ea0-7ed4-4470-96bd-161fb28be03b">
+- <img width="734" alt="image" src="https://github.com/grcbit/grc4ciso/assets/60721087/d6a30f5a-000d-4be1-adcb-76fdaec4935b">
 
 - What I need to do to mitigate vulenrability CVE-2023-50387 detected in the {agent_id}.
 
-- <img width="907" alt="image" src="https://github.com/grcbit/grc4ciso/assets/60721087/e26b2a4d-7b54-4bf8-876b-da3d1ae4ec99">
-
+- <img width="866" alt="image" src="https://github.com/grcbit/grc4ciso/assets/60721087/a87c5c6e-6f20-4891-bdff-626faa6a27d7">
 
 - Show me the configuration of the agent {agent_id}.
 - Show me the key of the agent {agent_id}.

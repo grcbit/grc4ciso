@@ -22,7 +22,7 @@
 
 Also if you are using the **XDR** module, the assistant can give you information about the endpoints that are connected to your **XDR**, so, you can for example ask the **grc4ciso GPT assistant** to summarize the main vulnerabilities you have in your systems, so you can take needed actions to mitigate cybersecurity risks.
 
-You can also ask to grc4cisoc GPT to create a threat scenario based on vulnerabilities identified and ask for recommendations to mitigate risks.
+You can also ask to grc4ciso GPT to create a threat scenario based on vulnerabilities identified and ask for recommendations to mitigate risks.
 
 XDR GPT Assistant Examples:
 

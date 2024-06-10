@@ -131,7 +131,7 @@ grc4ciso provide the following security functionalities:
 - The authorization to the grc4ciso components and functionalities are restricted by roles and privileges, so each user only can access the resources needed for their functions.
 
 ### **grc4ciso roles**
-R - Read, W - Write, C - Create, u - Unlink
+R - Read, W - Write, C - Create, U - Unlink
 
 |         | Asset Management | ISMS | Risk Management| Control | Compliance | Settings|
 | --------|-------------|-------|------------|------------|------------|------------|

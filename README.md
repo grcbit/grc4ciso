@@ -153,4 +153,3 @@ R - Read, W - Write, C - Create, U - Unlink
 
 - email: contacto@grcbit.com
 - whatsapp: +52 44-39-02-87-96
-- [Subscription](https://shop.grcbit.com/shop/category/grc4ciso-2)

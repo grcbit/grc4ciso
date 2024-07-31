@@ -50,10 +50,26 @@ You can evaluate risk factors and design the controls to mitigate risks.
 <img width="824" alt="image" src="https://github.com/grcbit/grc4ciso/assets/60721087/cae1f939-2969-46ad-8d5e-c217113ff3d3">
 <img width="958" alt="image" src="https://github.com/user-attachments/assets/1c420a78-b517-4378-b165-97181c5732c5">
 
+### **Control**
 
 
-- PCI requirements are also loaded so you can show compliance to auditors, clients, regulators or stake holders.
-- <img width="764" alt="image" src="https://github.com/grcbit/grc4ciso/assets/60721087/47dc3712-03dc-4d15-aee8-0aa61769d6c8">
+### **Compliance**
+
+Some compliance requeriments ara already loaded:
+
+- PCI DSS 4.0
+- NIST 800-53-V1
+- CIS Controls V8
+- NIST CSF 2.0
+- NIST CSF 1.1
+- OWASP ASVS 4.0.3
+
+
+
+PCI requirements are also loaded so you can show compliance to auditors, clients, regulators or stake holders.
+<img width="764" alt="image" src="https://github.com/grcbit/grc4ciso/assets/60721087/47dc3712-03dc-4d15-aee8-0aa61769d6c8">
+
+
 
 - You can plan onboarding and offboarding employee security activities.
   

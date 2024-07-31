@@ -1,10 +1,11 @@
 # **grc4ciso (GRC + XDR + GPT + ZT)**
 
 **grc4ciso** integrates the following cybersecurity capabilities into a unified Software-as-a-Service (SaaS) platform:
-- Extended Detection and Response (**XDR**).
 - Governance, Risk, and Compliance (**GRC**).
-- **Zero Trust** components to protect web applications and services (**ZT**).
+- Extended Detection and Response (**XDR**).
 - **GPT-4** assistant (**GPT**).
+- **Zero Trust** components to protect web applications and services (**ZT**).
+
 
 **With this platform you can get the power of these cybersecurity tools into a single SaaS platform!!**
 
@@ -26,7 +27,6 @@ With this module you can comply with ISO 27001:2022 implementing an Information 
 
 The platform provide you with the 93 ISO controls already loaded, security attributues, security concepts, categories, so you basically need to complete the statement aplicability to show an Information Security Management System implemented in your organization.
 
-<img width="794" alt="image" src="https://github.com/grcbit/grc4ciso/assets/60721087/c78bc2e8-0ccb-4091-8deb-136f15a441c8">
 <img width="644" alt="image" src="https://github.com/grcbit/grc4ciso/assets/60721087/297c9e79-0f83-45b7-ab6c-6ef943e45110">
 <img width="892" alt="image" src="https://github.com/grcbit/grc4ciso/assets/60721087/911eb6a7-1bf0-426c-a632-f056c7596e21">
 
@@ -37,6 +37,9 @@ You can get reports and charts about the Information Security Management System.
 
 ### **Risk Management**
 
+This module provide you functionalities to identify, analize and evaluate risks.
+It has a methodology already loaded based on impact, probability and risk levels (risk = impact * probability).
+
 You can evaluate risks using CVSS (Common Vulnerability Score System) calculator integrated in the risk module.
 
 <img width="685" alt="image" src="https://github.com/grcbit/grc4ciso/assets/60721087/21335b85-f667-45c4-9d60-c39e65bbee7e">
@@ -45,6 +48,7 @@ You can evaluate risk factors and design the controls to mitigate risks.
 <img width="919" alt="image" src="https://github.com/grcbit/grc4ciso/assets/60721087/8a4893a7-2adc-4088-bde5-08c57e4a31d0">
 <img width="926" alt="image" src="https://github.com/grcbit/grc4ciso/assets/60721087/d05a19f6-7998-4794-8582-e458a64bc763">
 <img width="824" alt="image" src="https://github.com/grcbit/grc4ciso/assets/60721087/cae1f939-2969-46ad-8d5e-c217113ff3d3">
+<img width="958" alt="image" src="https://github.com/user-attachments/assets/1c420a78-b517-4378-b165-97181c5732c5">
 
 
 

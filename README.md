@@ -17,7 +17,7 @@ This platform provides you:
 
 ## **GRC (Governance, Risk and Compliance)**
 
-Visit https://github.com/OWASP/www-project-it-grc
+Visit https://github.com/OWASP/www-project-it-grc to know the basic features of GRC module.
 
 ### **Aditional enterprise features**
 

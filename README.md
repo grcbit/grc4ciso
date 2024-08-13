@@ -8,8 +8,8 @@ This platform provides you:
 
 - Governance, Risk, and Compliance (**GRC**): this is a community module hosted by OWASP projects https://github.com/OWASP/www-project-it-grc 
 - Extended Detection and Response (**XDR**): endpoint security, configuration assessment, malware detection, file integrity monitoring, threat Intelligence, log data analysis, vulnerability detection, security operations, incident response, regulatory compliance, cloud security, container security.
-- **GPT-4** assistant: GPT virtual CISO assistant integrated inte GRC to provide you advise about cybersecurity activities, the GPT-4 assistant is also integrated to your XDR to provide you information about the endpoints connected.
-- **Zero Trust**: provide the required components to implement a zero trust overlay network to protect web applications and services.
+- **GPT-4** assistant: GPT virtual CISO assistant integrated into the GRC module to provide you advise about cybersecurity activities, the GPT-4 assistant is also integrated into the XDR module to provide you information about the endpoints connected.
+- **Zero Trust**: provide you the required components to implement a zero trust overlay network to protect web applications and services.
 
 **With this platform you can get the power of these cybersecurity tools into a single SaaS platform!!**
 

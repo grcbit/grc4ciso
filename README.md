@@ -115,34 +115,8 @@ To access the ZeroTrust network you will need an edge client, you can download i
 
 https://github.com/openziti/ziti/blob/release-next/ADOPTERS.md 
 
-### **grc4ciso Security**
 
-grc4ciso provide the following security functionalities:
-
-- XDR module is protected with Zero Trust, it mandates authentication and authorization before any connectivity can be established using a strong identity.
-- Multi-factor authentication can be enable to authenticate to the GRC platform.
-- The authorization to the grc4ciso components and functionalities are restricted by roles and privileges, so each user only can access the resources needed for their functions.
-
-### **grc4ciso roles**
-R - Read, W - Write, C - Create, U - Unlink
-
-|         | Asset Management | ISMS | Risk Management| Control | Compliance | Settings|
-| --------|-------------|-------|------------|------------|------------|------------|
-| GRC Admin | RWCU | RWCU | RWCU | RWCU | RWCU | RWCU |
-| GRC Consultant |RWCU|RWCU|RWCU|RWCU|RWCU|RWCU|
-| Asset Management|RWCU|R|R|R|R|R|
-| ISMS |R|RWCU|R|R|R|R|
-| Risk Management|R|R|RWCU|R|R|R|
-| Control|R|R|R|RWCU|R|R|
-| Compliance |R|R|R|R|RWCU|R|
-| Guest|R|R|R|R|R|R|
-
-### DEMO
-
-
-
-
-### Contact
+## **Contact**
 
 - email: contacto@grcbit.com
 - whatsapp: +52 44-39-02-87-96

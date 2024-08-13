@@ -17,49 +17,15 @@ This platform provides you:
 
 ## **GRC (Governance, Risk and Compliance)**
 
-### **Asset Management**
+Visit https://github.com/OWASP/www-project-it-grc
 
-Register critical data, IT systems, data classification and processes, so you can identify and evaluate risk factors associated to such components and design controls to protect your data.
-
-<img width="959" alt="image" src="https://github.com/user-attachments/assets/50681caf-37f8-4382-950f-9293df5120c2">
-
-<img width="959" alt="image" src="https://github.com/user-attachments/assets/0f6a9928-01a5-4cac-b57a-e50eb23066fa">
-
-### **ISMS (Information Security Management System)**
-
-With this module you can comply with ISO 27001:2022 implementing an Information Security Management System, IT Risk management, control design and more.
-
-The platform provide you with the 93 ISO controls already loaded, security attributues, security concepts, categories, so you basically need to complete the statement aplicability to show an Information Security Management System implemented in your organization.
-
-<img width="644" alt="image" src="https://github.com/grcbit/grc4ciso/assets/60721087/297c9e79-0f83-45b7-ab6c-6ef943e45110">
-<img width="892" alt="image" src="https://github.com/grcbit/grc4ciso/assets/60721087/911eb6a7-1bf0-426c-a632-f056c7596e21">
-
-You can get reports and charts about the Information Security Management System.
-
-<img width="925" alt="image" src="https://github.com/grcbit/grc4ciso/assets/60721087/bc036dcb-baa0-4c31-ae77-ef1b46bbfe64">
-<img width="718" alt="image" src="https://github.com/grcbit/grc4ciso/assets/60721087/9894d1cc-bc48-485a-b598-973960dfaf6d">
-
-### **Risk Management**
-
-This module provide you functionalities to identify, analize and evaluate risks.
-It has a methodology already loaded based on impact, probability and risk levels (risk = impact * probability).
-
-You can evaluate risks using CVSS (Common Vulnerability Score System) calculator integrated in the risk module.
-
-<img width="685" alt="image" src="https://github.com/grcbit/grc4ciso/assets/60721087/21335b85-f667-45c4-9d60-c39e65bbee7e">
-
-You can evaluate risk factors and design the controls to mitigate risks.
-<img width="919" alt="image" src="https://github.com/grcbit/grc4ciso/assets/60721087/8a4893a7-2adc-4088-bde5-08c57e4a31d0">
-<img width="926" alt="image" src="https://github.com/grcbit/grc4ciso/assets/60721087/d05a19f6-7998-4794-8582-e458a64bc763">
-<img width="824" alt="image" src="https://github.com/grcbit/grc4ciso/assets/60721087/cae1f939-2969-46ad-8d5e-c217113ff3d3">
-<img width="958" alt="image" src="https://github.com/user-attachments/assets/1c420a78-b517-4378-b165-97181c5732c5">
-
-### **Control**
-
+### **Aditional enterprise features**
 
 ### **Compliance**
 
-Some compliance requeriments ara already loaded:
+Pre-mapped ISO27001:2022 controls so you can focus on statement of applicability.
+
+Also stay compliant with the following frameworks:
 
 - PCI DSS 4.0
 - NIST 800-53-V1
@@ -67,18 +33,14 @@ Some compliance requeriments ara already loaded:
 - NIST CSF 2.0
 - NIST CSF 1.1
 - OWASP ASVS 4.0.3
+- You can load more frameworks if you need it.
 
+### **Employee Awareness**
 
-
-PCI requirements are also loaded so you can show compliance to auditors, clients, regulators or stake holders.
-<img width="764" alt="image" src="https://github.com/grcbit/grc4ciso/assets/60721087/47dc3712-03dc-4d15-aee8-0aa61769d6c8">
-
-
-
-- You can plan onboarding and offboarding employee security activities.
-  
 - You can launch security awareness campaigns, and track the user's response.
 - <img width="749" alt="image" src="https://github.com/grcbit/grc4ciso/assets/60721087/9b87d61d-6e77-4a1c-9493-3f1b2b9ba84e">
+
+- Also you can plan onboarding and offboarding employee security activities.
 
   
 - You can not protect what you do not know, so in the GRC module you can register IT providers, IT components, IT systems, processess and critical data, so you can evaluate risk and desing controls over such components to protect you data.

@@ -71,19 +71,19 @@ XDR GPT Assistant Examples:
 
 - Show me the list of agents that are integrated to the XDR.
   
-- <img width="542" alt="image" src="https://github.com/grcbit/grc4ciso/assets/60721087/b56d1b8a-f66c-4c45-bc0c-146200fb8a1b">
+<img width="542" alt="image" src="https://github.com/grcbit/grc4ciso/assets/60721087/b56d1b8a-f66c-4c45-bc0c-146200fb8a1b">
 
 - Show me the vulnerabilities of the agent {agent_id}.
   
-- <img width="503" alt="image" src="https://github.com/grcbit/grc4ciso/assets/60721087/1519382c-4a23-419d-8201-a0921fca1b2e">
+<img width="503" alt="image" src="https://github.com/grcbit/grc4ciso/assets/60721087/1519382c-4a23-419d-8201-a0921fca1b2e">
 
 - Based on {agent_id} vulnerabilities create a threat scenario.
 
-- <img width="734" alt="image" src="https://github.com/grcbit/grc4ciso/assets/60721087/d6a30f5a-000d-4be1-adcb-76fdaec4935b">
+<img width="734" alt="image" src="https://github.com/grcbit/grc4ciso/assets/60721087/d6a30f5a-000d-4be1-adcb-76fdaec4935b">
 
 - What I need to do to mitigate vulenrability CVE-2023-50387 detected in the {agent_id}.
 
-- <img width="866" alt="image" src="https://github.com/grcbit/grc4ciso/assets/60721087/a87c5c6e-6f20-4891-bdff-626faa6a27d7">
+<img width="866" alt="image" src="https://github.com/grcbit/grc4ciso/assets/60721087/a87c5c6e-6f20-4891-bdff-626faa6a27d7">
 
 - Show me the configuration of the agent {agent_id}.
 - Show me the key of the agent {agent_id}.

@@ -13,7 +13,7 @@ This platform provides you:
 
 **With this platform you can get the power of these cybersecurity tools into a single SaaS platform!!**
 
-<img width="527" alt="grc4ciso_1" src="https://github.com/grcbit/grc4ciso/assets/60721087/b9ece702-c369-40e5-98b2-4199330e3b58">
+<img width="959" alt="grc4ciso_1" src="https://github.com/grcbit/grc4ciso/assets/60721087/b9ece702-c369-40e5-98b2-4199330e3b58">
 
 ## **GRC (Governance, Risk and Compliance)**
 

@@ -37,12 +37,15 @@ Wazuh solution consists of an endpoint security agent, deployed to the monitored
 
 <img width="874" alt="image" src="https://github.com/grcbit/grc4ciso/assets/60721087/e04d77a0-50f9-4910-b63b-1c7ff90ed363">
 
+This assistant can provide you information about your GRC profile (strategic risks, risk factors, controls, complicance, IT assets, threat scenarios).
 
 Also if you are using the **XDR** module, the assistant can give you information about the endpoints that are connected to your **XDR**, so, you can for example ask the **grc4ciso GPT assistant** to summarize the main vulnerabilities you have in your systems, so you can take needed actions to mitigate cybersecurity risks.
 
-You can also ask to grc4ciso GPT to create a threat scenario based on vulnerabilities identified and ask for recommendations to mitigate risks.
+<a name="prompts"></a>## **Prompts Examples**
 
-<a name="prompts">**Prompts**</a>
+Risk information
+
+XDR 
 
 XDR GPT Assistant Examples:
 

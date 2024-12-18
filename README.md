@@ -19,31 +19,6 @@ This platform provides you:
 
 Visit https://github.com/OWASP/www-project-it-grc to know the basic features of GRC module.
 
-### **Aditional enterprise features**
-
-### **Compliance**
-
-Pre-mapped ISO27001:2022 controls so you can focus on statement of applicability.
-
-Also stay compliant with the following frameworks:
-
-- PCI DSS 4.0
-- NIST 800-53-V1
-- CIS Controls V8
-- NIST CSF 2.0
-- NIST CSF 1.1
-- OWASP ASVS 4.0.3
-- You can load more frameworks if you need it.
-
-### **Employee Awareness**
-
-- You can launch security awareness campaigns, and track the user's response.
-
-<img width="749" alt="image" src="https://github.com/grcbit/grc4ciso/assets/60721087/9b87d61d-6e77-4a1c-9493-3f1b2b9ba84e">
-
-- Also you can plan onboarding and offboarding employee security activities.
-
-
 ## **XDR**
 
 XDR functionalities are based on wazuh platform, Wazuh is a free and open source platform used for threat prevention, detection, and response. It is capable of protecting workloads across on-premises, virtualized, containerized, and cloud-based environments.

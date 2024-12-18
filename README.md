@@ -41,7 +41,7 @@ This assistant can provide you information about your GRC profile (strategic ris
 
 Also if you are using the **XDR** module, the assistant can give you information about the endpoints that are connected to your **XDR**, so, you can for example ask the **grc4ciso GPT assistant** to summarize the main vulnerabilities you have in your systems, so you can take needed actions to mitigate cybersecurity risks.
 
-<a name="prompts"></a>## **Prompts Examples**
+<a name="prompts"></a>### **Prompts Examples**
 
 Risk information
 

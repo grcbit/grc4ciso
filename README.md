@@ -42,6 +42,9 @@ Also if you are using the **XDR** module, the assistant can give you information
 
 You can also ask to grc4ciso GPT to create a threat scenario based on vulnerabilities identified and ask for recommendations to mitigate risks.
 
+## **Prompts**
+<a id="section_ID"> Enlace prompts</a>
+
 XDR GPT Assistant Examples:
 
 - Show me the list of agents that are integrated to the XDR.

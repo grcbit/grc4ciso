@@ -46,7 +46,10 @@ Also if you are using the **XDR** module, the assistant can give you information
 
 | Prompt | Description | Language |
 |--------|-------------|----------|
-|Lista los activos de datos registrados en el GRC|Muestra la lista de activos de datos que están registrados en GRC-->Gestión de activos-->Activos datos|es|
+|Lista los activos de datos registrados en el módulo GRC|Muestra la lista de activos de datos que están registrados en GRC-->Gestión Activos-->Activos Datos|es|
+|List the data assets registered in the GRC module|It shows the data asset list registered in GRC-->Asset Management-->Data Asset|en|
+
+
 
 XDR GPT Assistant Examples:
 

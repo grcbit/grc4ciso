@@ -44,9 +44,9 @@ Also if you are using the **XDR** module, the assistant can give you information
 <a name="prompts"></a>
 ### **Prompts Examples**
 
-Risk information
-
-XDR 
+| Prompt | Description | Language |
+|--------|-------------|----------|
+|Lista los activos de datos registrados en el GRC|Muestra la lista de activos de datos que están registrados en GRC-->Gestión de activos-->Activos datos|es|
 
 XDR GPT Assistant Examples:
 

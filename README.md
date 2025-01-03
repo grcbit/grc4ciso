@@ -44,11 +44,41 @@ Also if you are using the **XDR** module, the assistant can give you information
 <a name="prompts"></a>
 ### **Prompts Examples**
 
-| Prompt | Description | Language |
-|--------|-------------|----------|
-|Lista los activos de datos registrados en el módulo GRC|Muestra la lista de activos de datos que están registrados en GRC-->Gestión Activos-->Activos Datos|es|
-|List the data assets registered in the GRC module|It shows the data asset list registered in GRC-->Asset Management-->Data Asset|en|
-
+| Prompt Example | Description | Module | Language |
+|----------------|-------------|--------|----------|
+| Return information about the XDR agents | Return information about all available agents or a list of them (ID, IP, name, status, operating system) | XDR | en |
+| Return the active configuration about the XDR agent 001 | Return the active configuration the agent is currently using | XDR | en |
+| Return the TCP ports info for the XDR agent 001 | Return the agent's ports info | XDR | en |
+| Return the processes info for the XDR agent 001 | Return the agent's processes info | XDR | en |
+| Return the package info for the XDR agent 001 | Return the agent's packages info. This information include name, section, size, priority information of all packages among others | XDR | en |
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
 
 
 XDR GPT Assistant Examples:

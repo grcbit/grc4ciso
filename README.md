@@ -44,20 +44,20 @@ Also if you are using the **XDR** module, the assistant can give you information
 <a name="prompts"></a>
 ### **Prompts Examples**
 
-| Prompt Example | Description | Module | Language |
-|----------------|-------------|--------|----------|
-| Return information about the XDR agents | Return information about all available agents or a list of them (ID, IP, name, status, operating system) | XDR | en |
-| Return the active configuration about the XDR agent 001 | Return the active configuration the agent is currently using | XDR | en |
-| Return the TCP ports info for the XDR agent 001 | Return the agent's ports info | XDR | en |
-| Return the processes info for the XDR agent 001 | Return the agent's processes info | XDR | en |
-| Return the package info for the XDR agent 001 | Return the agent's packages info. This information include name, section, size, priority information of all packages among others | XDR | en |
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
+| Prompt Example | Description | Required parameter | Module | Language |
+|----------------|-------------|--------------------|--------|----------|
+| Return information about the XDR agents | Return information about all available agents or a list of them (ID, IP, name, status, operating system) |  | XDR | en |
+| Return the active configuration about the XDR agent 001 | Return the active configuration the agent is currently using | agent ID | XDR | en |
+| Return the TCP ports info for the XDR agent 001 | Return the agent's ports info | agent ID | XDR | en |
+| Return the processes info for the XDR agent 001 | Return the agent's processes info | agent ID | XDR | en |
+| Return the package info for the XDR agent 001 | Return the agent's packages info. This information include name, section, size, priority information of all packages among others | agent ID | XDR | en |
+| Return the 001 XDR agent Operating System info | Return the agent's OS info. This information include os information, architecture information among others of all agents | agent ID | XDR | en |
+| Return the 001 XDR agent routing configuration | Return the agent's routing configuration for each network interface | agent ID | XDR | en |
+| Return the 001 XDR agent network address info | Return the agent's network address info. This information include used IP protocol, interface, IP address among others | agent ID | XDR | en |
+| Return all hotfixes installed by Microsoft in the 001 XDR agent | Return all hotfixes installed by Microsoft(R) in Windows(R) systems (KB... fixes) | agent ID | XDR | en |
+| Return the 001 XDR agent hardware info | Return the agent's hardware info. This information include cpu, ram, scan info among others | agent ID | XDR | en |
+| Return the security SCA database of the 001 XDR agent | Return the security SCA database of an agent | agent ID | XDR | en |
+| Return the last syscheck scan of the 001 XDR agent | Return when the last syscheck scan started and ended. If the scan is still in progress the end date will be unknown | XDR | en |
 |||||
 |||||
 |||||

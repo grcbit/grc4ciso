@@ -57,33 +57,20 @@ Also if you are using the **XDR** module, the assistant can give you information
 | Return all hotfixes installed by Microsoft in the 001 XDR agent | Return all hotfixes installed by Microsoft(R) in Windows(R) systems (KB... fixes) | agent ID | XDR | en |
 | Return the 001 XDR agent hardware info | Return the agent's hardware info. This information include cpu, ram, scan info among others | agent ID | XDR | en |
 | Return the security SCA database of the 001 XDR agent | Return the security SCA database of an agent | agent ID | XDR | en |
-| Return the last syscheck scan of the 001 XDR agent | Return when the last syscheck scan started and ended. It checks configured files for changes to the checksums, permissions and ownership | agent ID | XDR | en |
+| Return the last syscheck scan of the 001 XDR agent | Return when the last File integrity monitoring scan started and ended. It checks configured files for changes to the checksums, permissions and ownership | agent ID | XDR | en |
 | Run File integrity monitoring scan in all agents | Run File integrity monitoring scan in all agents | agent ID | XDR | en |
 | Return the File integrity monitoring findings in the 001 XDR agent | Return File integrity monitoring findings in the specified agent | agent ID | XDR | en |
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
+| Return XDR statistical information | Return XDR statistical information for the current or specified date (total alerts and events) | | XDR | en |
+| Return a summary of the XDR log entries | Return a summary of the last 2000 XDR log entries | | XDR | en |
+| Return the data asset summary of the GRC module | Return the data asset summary of the GRC module. This information include description, data classification, owner, security requirement info among others | | GRC | en |
+| Return the data classification summary of the GRC module | Return the data classification summary of the GRC module. This information include name and description | | GRC | en |
+| Return the supplier summary of the GRC module | Return the supplier summary of the GRC module. This information include name and description | | GRC | en |
+| Return the business process summary of the GRC module | Return the business process summary of the GRC module. This information include name, owner and description | | GRC | en |
+| 1) Return the ISO27001:2022 statement of applicability summary of the GRC module. 2) Return the ISO27001:2022 requirement 5.11 statement of applicability summary of the GRC module | Return the ISO27001:2022 statement of applicability summary of the GRC module. This information include ISO requirement, aplicability, reason, status | | GRC | en |
+|Return the Information Security Management System Roles summary of the GRC module | Return the Information Security Management System Roles summary of the GRC module. This information include role name, responsibilities | | GRC | en |
+||||||
 
 Our ChatGPT for Cybersecurity module is a state-of-the-art virtual assistant tailored for cybersecurity teams and small to medium-sized businesses (SMBs). It acts as a virtual Chief Information Security Officer (CISO) or governance advisor, ready to answer questions about governance, risk, compliance (GRC), threat detection, and more. This AI-driven assistant is designed to help organizations stay compliant, mitigate risks, and navigate the complexities of cybersecurity without needing in-depth technical knowledge.
-
-
-
 
 ## **ZeroTrust**
 

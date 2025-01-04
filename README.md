@@ -57,9 +57,9 @@ Also if you are using the **XDR** module, the assistant can give you information
 | Return all hotfixes installed by Microsoft in the 001 XDR agent | Return all hotfixes installed by Microsoft(R) in Windows(R) systems (KB... fixes) | agent ID | XDR | en |
 | Return the 001 XDR agent hardware info | Return the agent's hardware info. This information include cpu, ram, scan info among others | agent ID | XDR | en |
 | Return the security SCA database of the 001 XDR agent | Return the security SCA database of an agent | agent ID | XDR | en |
-| Return the last syscheck scan of the 001 XDR agent | Return when the last syscheck scan started and ended. If the scan is still in progress the end date will be unknown | XDR | en |
-|||||
-|||||
+| Return the last syscheck scan of the 001 XDR agent | Return when the last syscheck scan started and ended. It checks configured files for changes to the checksums, permissions and ownership | agent ID | XDR | en |
+| Run File integrity monitoring scan in all agents | Run File integrity monitoring scan in all agents | agent ID | XDR | en |
+| Return the File integrity monitoring findings in the 001 XDR agent | Return File integrity monitoring findings in the specified agent | agent ID | XDR | en |
 |||||
 |||||
 |||||

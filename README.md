@@ -85,5 +85,5 @@ https://github.com/openziti/ziti/blob/release-next/ADOPTERS.md
 
 ## **Contact**
 
-- email: contacto@grcbit.com
+- email: info@grcbit.com
 - whatsapp: +1 (512) 717-7207

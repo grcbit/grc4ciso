@@ -46,22 +46,22 @@ Also if you are using the **XDR** module, the assistant can give you information
 
 | Prompt Example | Description | Required parameter | Module | Language |
 |----------------|-------------|--------------------|--------|----------|
-| Return information about the XDR agents | Return information about all available agents or a list of them (ID, IP, name, status, operating system) |  | XDR | en |
-| Return the active configuration about the XDR agent 001 | Return the active configuration the agent is currently using | agent ID | XDR | en |
-| Return the TCP ports info for the XDR agent 001 | Return the agent's ports info | agent ID | XDR | en |
-| Return the processes info for the XDR agent 001 | Return the agent's processes info | agent ID | XDR | en |
-| Return the package info for the XDR agent 001 | Return the agent's packages info. This information include name, section, size, priority information of all packages among others | agent ID | XDR | en |
-| Return the 001 XDR agent Operating System info | Return the agent's OS info. This information include os information, architecture information among others of all agents | agent ID | XDR | en |
-| Return the 001 XDR agent routing configuration | Return the agent's routing configuration for each network interface | agent ID | XDR | en |
-| Return the 001 XDR agent network address info | Return the agent's network address info. This information include used IP protocol, interface, IP address among others | agent ID | XDR | en |
-| Return all hotfixes installed by Microsoft in the 001 XDR agent | Return all hotfixes installed by Microsoft(R) in Windows(R) systems (KB... fixes) | agent ID | XDR | en |
-| Return the 001 XDR agent hardware info | Return the agent's hardware info. This information include cpu, ram, scan info among others | agent ID | XDR | en |
-| Return the security SCA database of the 001 XDR agent | Return the security SCA database of an agent | agent ID | XDR | en |
-| Return the last syscheck scan of the 001 XDR agent | Return when the last File integrity monitoring scan started and ended. It checks configured files for changes to the checksums, permissions and ownership | agent ID | XDR | en |
-| Run File integrity monitoring scan in all agents | Run File integrity monitoring scan in all agents | agent ID | XDR | en |
-| Return the File integrity monitoring findings in the 001 XDR agent | Return File integrity monitoring findings in the specified agent | agent ID | XDR | en |
-| Return XDR statistical information | Return XDR statistical information for the current or specified date (total alerts and events) | | XDR | en |
-| Return a summary of the XDR log entries | Return a summary of the last 2000 XDR log entries | | XDR | en |
+| Retrieve detailed information about all connected XDR agents | Return information about all available agents or a list of them (ID, IP, name, status, operating system) |  | XDR | en |
+| Retrieve the current active configuration of XDR agent ID 001, including all parameter settings | Return the active configuration the agent is currently using | agent ID | XDR | en |
+| Retrieve the active TCP ports information for XDR agent ID 001 | Return the agent's ports info | agent ID | XDR | en |
+| Retrieve detailed information about the processes running on XDR agent ID 001, including resource usage and status | Return the agent's processes info | agent ID | XDR | en |
+| Retrieve the installed package information for XDR agent ID 001, including package versions and installation dates | Return the agent's packages info. This information include name, section, size, priority information of all packages among others | agent ID | XDR | en |
+| Retrieve detailed operating system information for XDR agent ID 001, including OS version and architecture | Return the agent's OS info. This information include os information, architecture information among others of all agents | agent ID | XDR | en |
+| Retrieve the routing configuration of XDR agent ID 001, including network interfaces and routing table details | Return the agent's routing configuration for each network interface | agent ID | XDR | en |
+| Retrieve the network address information (IP address, subnet, gateway) for XDR agent ID 001 | Return the agent's network address info. This information include used IP protocol, interface, IP address among others | agent ID | XDR | en |
+| Retrieve all Microsoft hotfixes installed on XDR agent ID 001, including version details and installation dates | Return all hotfixes installed by Microsoft(R) in Windows(R) systems (KB... fixes) | agent ID | XDR | en |
+| Retrieve detailed hardware information for XDR agent ID 001, including CPU, memory, and storage specifications | Return the agent's hardware info. This information include cpu, ram, scan info among others | agent ID | XDR | en |
+| Retrieve the Security Configuration Assessment (SCA) database for XDR agent ID 001, including compliance status and recommendations | Return the security SCA database of an agent | agent ID | XDR | en |
+| Return the last syscheck scan of the XDR agent ID 001 | Return when the last File integrity monitoring scan started and ended. It checks configured files for changes to the checksums, permissions and ownership | agent ID | XDR | en |
+| Run a file integrity monitoring (FIM) scan on all connected XDR agents | Run File integrity monitoring scan in all agents | | XDR | en |
+| Retrieve the results of the file integrity monitoring (FIM) scan for XDR agent ID 001, including any modified or suspicious files | Return File integrity monitoring findings in the specified agent | agent ID | XDR | en |
+| Retrieve statistical data for the XDR system | Return XDR statistical information for the current or specified date (total alerts and events) | | XDR | en |
+| Retrieve a summary of the XDR log entries, including key events and their frequency | Return a summary of the last 2000 XDR log entries | | XDR | en |
 | Return the data asset summary of the GRC module | Return the data asset summary of the GRC module. This information include description, data classification, owner, security requirement info among others | | GRC | en |
 | Return the data classification summary of the GRC module | Return the data classification summary of the GRC module. This information include name and description | | GRC | en |
 | Return the supplier summary of the GRC module | Return the supplier summary of the GRC module. This information include name and description | | GRC | en |
